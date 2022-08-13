@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-onboarding-add-certificate](screens/onboarding-add-certificate)
 - [react-native-onboarding](modules/onboarding)
 - [react-native-social-login](modules/social-login)
+- [react-native-splash](modules/splash)
 
 # Getting started: Frontend
 
