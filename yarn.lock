@@ -1292,7 +1292,10 @@
 "@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
-"@screens/onboarding@file:./screens/onboarding/":
+"@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate/":
+  version "1.0.0"
+
+"@screens/onboarding@file:./screens/onboarding":
   version "1.0.0"
 
 "@screens/payment-subscription@file:./screens/payment-subscription":

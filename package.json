@@ -20,6 +20,7 @@
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/onboarding": "file:./screens/onboarding/",
+    "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@stripe/stripe-react-native": "^0.2.2",
     "axios": "^0.21.1",

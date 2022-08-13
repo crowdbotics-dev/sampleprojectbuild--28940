@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-payment-subscriptions](screens/payment-subscription)
 - [screen-forgot-password](screens/forgot-password)
 - [screen-onboarding](screens/onboarding)
+- [screen-onboarding-add-certificate](screens/onboarding-add-certificate)
 
 # Getting started: Frontend
 
