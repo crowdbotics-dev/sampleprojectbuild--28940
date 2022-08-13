@@ -1292,6 +1292,9 @@
 "@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
+"@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate":
+  version "1.0.0"
+
 "@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate/":
   version "1.0.0"
 
