@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-notifications-list](screens/notifications)
 - [payments]()
 - [screen-payment-subscriptions](screens/payment-subscription)
+- [screen-forgot-password](screens/forgot-password)
 
 # Getting started: Frontend
 
