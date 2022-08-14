@@ -1106,7 +1106,7 @@
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
-"@modules/user-profile@file:./modules/user-profile/":
+"@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1352,6 +1352,9 @@
   version "1.0.0"
 
 "@screens/report@file:./screens/report":
+  version "1.0.0"
+
+"@screens/settings@file:./screens/settings/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
