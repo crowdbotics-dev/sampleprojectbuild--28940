@@ -71,6 +71,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-report](screens/report)
 - [screen-direct-messages](screens/direct-messages)
 - [react-native-chat](modules/chat)
+- [react-native-user-profile](modules/user-profile)
 
 # Getting started: Frontend
 
