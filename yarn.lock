@@ -1331,7 +1331,10 @@
 "@screens/payment-subscription@file:./screens/payment-subscription":
   version "1.0.0"
 
-"@screens/product-listing@file:./screens/product-listing/":
+"@screens/product-listing@file:./screens/product-listing":
+  version "1.0.0"
+
+"@screens/report@file:./screens/report/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

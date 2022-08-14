@@ -26,6 +26,7 @@
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/product-listing": "file:./screens/product-listing/",
+    "@screens/report": "file:./screens/report/",
     "@stripe/stripe-react-native": "^0.2.2",
     "axios": "^0.21.1",
     "babel-plugin-import-glob": "^2.0.0",
