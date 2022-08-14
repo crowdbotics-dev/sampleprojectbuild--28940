@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-splash](modules/splash)
 - [screen-store-products-listing](screens/product-listing)
 - [screen-report](screens/report)
+- [screen-direct-messages](screens/direct-messages)
 
 # Getting started: Frontend
 
