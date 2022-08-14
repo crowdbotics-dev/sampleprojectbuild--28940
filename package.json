@@ -31,6 +31,7 @@
     "@screens/product-listing": "file:./screens/product-listing/",
     "@screens/report": "file:./screens/report/",
     "@screens/settings": "file:./screens/settings/",
+    "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
     "@stripe/stripe-react-native": "^0.2.2",
     "axios": "^0.21.1",
     "babel-plugin-import-glob": "^2.0.0",
