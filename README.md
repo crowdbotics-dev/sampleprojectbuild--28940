@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-products-listing](screens/product-listing)
 - [screen-report](screens/report)
 - [screen-direct-messages](screens/direct-messages)
+- [react-native-chat](modules/chat)
 
 # Getting started: Frontend
 
