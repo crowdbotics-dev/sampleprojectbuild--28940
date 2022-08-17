@@ -1086,7 +1086,7 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/onboarding@file:./modules/onboarding":
@@ -1350,9 +1350,6 @@
   version "1.0.0"
 
 "@screens/forgot-password@file:./screens/forgot-password":
-  version "1.0.0"
-
-"@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
 "@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate":

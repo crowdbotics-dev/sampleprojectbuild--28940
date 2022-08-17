@@ -28,7 +28,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
-    "@screens/notifications": "file:./screens/notifications/",
     "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
